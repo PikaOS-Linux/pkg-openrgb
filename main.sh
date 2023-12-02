@@ -3,9 +3,9 @@
 DEBIAN_FRONTEND=noninteractive
 
 # Clone Upstream
-mkdir -p ./src-pkg-name
-cp -rvf ./debian ./src-pkg-name/
-cd ./src-pkg-name/
+git clone https://gitlab.com/CalcProgrammer1/OpenRGB src-pkg-openrgb
+cp -rvf ./debian ./src-pkg-openrgb/
+cd ./src-pkg-openrgb/
 
 # Get build deps
 apt-get build-dep ./ -y
