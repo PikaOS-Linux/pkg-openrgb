@@ -1,0 +1,7 @@
+*.ddeb
+*.tar.xz
+*.dsc
+*.changes
+*.buildinfo
+output
+src-pkg-openrgb
