@@ -1,3 +1,9 @@
+openrgb (0.9.0-pika2) pikauwu; urgency=medium
+
+  * Initial release.
+
+ -- Ferreo <harderthanfire@gmail.com>  Wed, 21 Feb 2024 15:16:00 +0000
+
 openrgb (0.9.0-pika1) pikauwu; urgency=medium
 
   * Initial release.
